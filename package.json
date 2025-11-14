@@ -30,7 +30,7 @@
     "express-rest-api": "^0.1.0",
     "figlet": "^1.1.2",
     "knox": "^0.9.2",
-    "milieu": "^1.7.1",
+    "milieu": "^1.12.2",
     "mongoose": "^4.5.5",
     "mongoose-count-and-find": "^1.0.0",
     "mongoose-cu-timestamps": "^1.0.0",
